@@ -1,11 +1,16 @@
 _repo: Herr-Corpwieth-gentleman-detektiv_74705
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: herrar, Tre
     gutenberg_agent_id: '57609'
     url: http://www.gutenberg.org/2009/agents/57609
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74705#Herr-Corpwieth-gentleman-detektiv
 gutenberg_issued: '2024-11-08'
 gutenberg_type: Text
 identifiers:
